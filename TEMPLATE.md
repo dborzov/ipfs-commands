@@ -1,7 +1,7 @@
-## IPFS command line tool commands
+#### IPFS command line tool commands
 
 {{ range . }}
-## `ipfs {{ .Name }}``: {{.Cmd.Helptext.Tagline}}
+###### `ipfs {{ .Name }}``: {{.Cmd.Helptext.Tagline}}
 
 {{.Cmd.Helptext.ShortDescription}}
 
