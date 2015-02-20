@@ -9,7 +9,7 @@ Usage:
     ipfs-commands
 ```
 
-et voila, that results in the filled markdown template from [`TEMPLATE.md`](TEMPLATE.md) in Stdout, like this:
+et voila, we get the parsed template file from [`TEMPLATE.md`](TEMPLATE.md) in Stdout, like this:
 
 -------
 #### IPFS command line tool commands
